@@ -31,4 +31,4 @@ io.on('connection', (socket)=>{
 
 server.listen(3000, ()=> {
   console.log(`Server is on ${port}`);
-})
+});
